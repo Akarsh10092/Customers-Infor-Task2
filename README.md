@@ -8,7 +8,7 @@
 
 <h3 align="center">The methods used</h3>
 
-
+<img src="https://github.com/Akarsh10092/Customers-Infor-Task2/blob/main/screenshots/final1.png?raw=true" alt="akarsh10092" />
 
 <p align="left">
 
@@ -18,7 +18,7 @@
 
 ->Used Material UI for display grids and expand button
 
-
+<img src="https://github.com/Akarsh10092/Customers-Infor-Task2/blob/main/screenshots/final2.png?raw=true" alt="akarsh10092" />
 
 </p>
 
